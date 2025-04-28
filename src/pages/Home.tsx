@@ -62,7 +62,7 @@ export default function Home() {
             Facebook
           </a>
           <a
-            href="https://www.linkedin.com/in/manuwendra-vikum-894853275/"
+            href="https://www.linkedin.com/in/manuwendra-vikum"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-button"
